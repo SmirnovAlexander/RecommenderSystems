@@ -79,7 +79,6 @@
     - implicit
 
 
-
 # Recommendation Algorithms
 
 - Non-Personalized summary statistics
